@@ -18,3 +18,5 @@ components/camel-solr/data
 .factorypath
 .pmd
 
+examples/camel-example-spring-boot-activemq/.vscode
+.vscode
